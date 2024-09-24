@@ -1,0 +1,28 @@
+.main-head{
+  margin-top: 0%;
+  background-color: blanchedalmond;
+}
+.font{
+    text-align: center;
+}
+.form{
+    text-align: center;
+    margin-top: 5vh;
+}
+.table{
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 4vh;
+}
+.doc{
+    text-align: center;
+    border-bottom: 10%;
+    margin-top: 7vh;
+    background-color: antiquewhite;
+}
+.foot{
+    text-align: center;
+}
+.hr{
+    margin-top: 2%;
+}
